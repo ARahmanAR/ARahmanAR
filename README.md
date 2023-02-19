@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on ... Vue.Js
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [E-mail]:(abdurrahman272023@outlook.com)
+- 📫 How to reach me: ... :email::(abdurrahman272023@outlook.com)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am almost finished
