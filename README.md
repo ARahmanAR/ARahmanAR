@@ -1,5 +1,31 @@
-# 💫 About Me:
-Here is what I'm working on! 👋<br>🔭 I’m currently working on YouTube<br>🌱 I’m currently learning Machine Learning<br>👯 I’m looking to collaborate on Vue.Js<br>🤔 I’m looking for help with Machine Learning<br>💬 Ask me about Anything<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I am almost finished
+# <p align="center"> [𝓗𝓮𝓵𝓵𝓸 ^_^](#-%F0%9D%93%97%F0%9D%93%AE%F0%9D%93%B5%F0%9D%93%B5%F0%9D%93%B8-_-) <img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218338072-ea477aa8-1374-4e2d-8dfd-dd8cc4e45656.gif"></p>
+
+<img src="https://user-images.githubusercontent.com/118815227/218338455-6034502f-e9dd-42e8-ba74-608fb41cdbaa.gif"> 𝚝𝚘 𝚖𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎
+
+
+
+
+
+
+
+
+## [A̵̺̼̠̫͚͙͎͇͛̈́͑̌b̸̛̮̗̺͉̰̃͌́̏̑̇͋͝͝ò̴̡̪͖̻̱̫͇̪̍͘ų̵͚͙͉̳̱̯̳̩͚͑̋̌̂͛̽̍̌̒̕ẗ̵͖͔̳̜̬̝̝͉̪ ̸̻̦̣͓̪͉̳͖̜̺̉̔̓͌͂͌͛̎́ṃ̷̏̾̓ē̸͇͖̳̲͆̽̾̎̈́̊ ](#a%CC%B5%CD%9B%CD%84%CD%91%CC%8C%CC%BA%CC%BC%CC%A0%CC%AB%CD%9A%CD%99%CD%8E%CD%87b%CC%B8%CC%83%CD%8C%CD%9D%CD%81%CD%9D%CC%8F%CC%91%CC%87%CD%8B%CC%9B%CC%AE%CC%97%CC%BA%CD%89%CC%B0o%CC%B4%CD%80%CD%98%CC%8D%CC%AA%CD%96%CC%A1%CC%BB%CC%B1%CC%AB%CD%87%CC%AAu%CC%B5%CC%95%CD%91%CC%8B%CC%8C%CC%82%CD%9B%CC%BD%CC%8D%CC%8C%CC%92%CD%9A%CD%99%CD%89%CC%B3%CC%A8%CC%B1%CC%AF%CC%B3%CC%A9%CD%9At%CC%B5%CC%88%CD%96%CD%94%CC%B3%CC%9C%CC%AC%CC%9D%CC%9D%CD%89%CC%AA-%CC%B8%CC%89%CC%94%CD%83%CD%8C%CD%82%CD%8C%CD%9B%CC%8E%CD%81%CC%BB%CC%A6%CC%A3%CD%93%CC%AA%CD%89%CC%B3%CD%96%CC%9C%CC%BAm%CC%B7%CC%8F%CC%BE%CD%83%CC%A3e%CC%B8%CC%84%CD%86%CC%BD%CC%BE%CC%8E%CD%84%CC%8A%CD%87%CD%96%CC%B3%CC%B2-) <img src="https://raw.githubusercontent.com/HotCakeX/Harden-Windows-Security/main/images/Gifs/mooshi.gif" width=""/>
+
+<br>
+
+<br>
+
+<a href="https://mvp.microsoft.com/en-US/mvp/profile/4edbca65-7979-4779-b7e4-d182e123259b"> **𝙼𝚒𝚌𝚛𝚘𝚜𝚘𝚏𝚝 𝙼𝚅𝙿** <br><br>    <img src="https://mvp.microsoft.com/Assets/UserProfile/MVP/Badge.svg" width="30"></a> <br> Developer ⚡ Designer.
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/Neon%20numbers%20and%20letters/letterf.gif" width="17"><img src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/Neon%20numbers%20and%20letters/lettera.gif" width="17"><img src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/Neon%20numbers%20and%20letters/letteri.gif" width="17"><img src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/Neon%20numbers%20and%20letters/letterl.gif" width="17"><img src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/Neon%20numbers%20and%20letters/letteru.gif" width="17"><img src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/Neon%20numbers%20and%20letters/letterr.gif" width="17"><img src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/Neon%20numbers%20and%20letters/lettere.gif" width="17">ㅤ<img src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/Neon%20numbers%20and%20letters/letteri.gif" width="17"><img src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/Neon%20numbers%20and%20letters/letters.gif" width="17">ㅤ<img src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/Neon%20numbers%20and%20letters/lettern.gif" width="17"><img src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/Neon%20numbers%20and%20letters/lettero.gif" width="17"><img src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/Neon%20numbers%20and%20letters/lettert.gif" width="17">ㅤ<img src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/Neon%20numbers%20and%20letters/lettera.gif" width="17"><img src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/Neon%20numbers%20and%20letters/lettern.gif" width="17">ㅤ<img src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/Neon%20numbers%20and%20letters/lettero.gif" width="17"><img src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/Neon%20numbers%20and%20letters/letterp.gif" width="17"><img src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/Neon%20numbers%20and%20letters/lettert.gif" width="17"><img src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/Neon%20numbers%20and%20letters/letteri.gif" width="17"><img src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/Neon%20numbers%20and%20letters/lettero.gif" width="17"><img src="https://raw.githubusercontent.com/HotCakeX/.github/main/Pictures/Gifs/Neon%20numbers%20and%20letters/lettern.gif" width="17">
+
+</div>
+
+
 
 
 ## 🌐 Socials:
