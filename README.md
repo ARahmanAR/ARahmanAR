@@ -4,7 +4,7 @@
 <br>
 <div align="center">
 <img src="https://media1.tenor.com/m/cGQBMHP3eJsAAAAC/spectory-logo-logo.gif" 
-     width="auto" 
+     width="250px" 
      style="filter: drop-shadow(0 0 10px #0ff); border-radius: 10%; transition: 0.3s;"
      onmouseover="this.style.transform='scale(1.1)'; this.style.filter='drop-shadow(0 0 20px #0ff)';" 
      onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 10px #0ff)';" />
