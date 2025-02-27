@@ -15,7 +15,7 @@
 
 <br>
 
-<a href="#"> **𝙼𝚒𝚌𝚛𝚘𝚜𝚘𝚏𝚝 𝙼𝚅𝙿** <br><br>    <img src="https://mvp.microsoft.com/Assets/UserProfile/MVP/Badge.svg" width="30"></a> <br> Developer ⚡ Designer.
+<br> Developer ⚡ Designer
 
 <br>
 
