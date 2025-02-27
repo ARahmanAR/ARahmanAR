@@ -3,7 +3,7 @@
 <body>
 <br>
 <div align="center">
-<img src="https://tenor.com/PklS.gif](https://media1.tenor.com/m/cGQBMHP3eJsAAAAC/spectory-logo-logo.gif">
+<img src="https://tenor.com/PklS.gif](https://media1.tenor.com/m/cGQBMHP3eJsAAAAC/spectory-logo-logo.gif" width="auto" />
 </div>
 <br>
 
