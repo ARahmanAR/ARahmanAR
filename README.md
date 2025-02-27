@@ -1,4 +1,3 @@
-
 <h1 align="center">✨ Hi there I'm Abdur Rahman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
 
 <body>
@@ -32,3 +31,4 @@ Learning: Advanced AI, Deep Learning, Full-Stack Development.
 
 
 <br> <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2> <div> <img src="https://raw.githubusercontent.com/huy232/huy232/main/image/2.gif" align="center" /> </div> <br> <h2 align="center">View counter 👀</h2> <div align="center"> <img src="https://count.getloli.com/@ARahmanAR?theme=original-new" /> </div> </div>
+```
