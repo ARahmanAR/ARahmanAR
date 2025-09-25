@@ -83,4 +83,14 @@ Learning: Advanced AI, Deep Learning, Full-Stack Development
   
   <h3>Visitor Count</h3>
   <img src="https://count.getloli.com/@ARahmanAR?theme=original-new" alt="Visitor Count" />
+
+  ## Star History
+
+<a href="https://www.star-history.com/#winapps-org/winapps&https:/&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=winapps-org/winapps,https:/&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=winapps-org/winapps,https:/&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=winapps-org/winapps,https:/&type=Date" />
+ </picture>
+</a>
 </div>
