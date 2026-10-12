@@ -157,7 +157,7 @@ I'm **Abdur Rahman**, a Computer Science & Engineering student at **Daffodil Int
 
 <p align="center">
   <a href="https://github.com/ARahmanAR">
-    <img src="https://komarev.com/ghpvc/?username=ARahmanAR&style=for-the-badge&color=06b6d4&label=PROFILE+VISITORS" alt="Profile visitor count" />
+    <img src="https://komarev.com/ghpvc/?username=ARahmanAR&style=for-the-badge&color=06b6d4&label=PROFILE%20VISITORS" alt="Profile visitor count" />
   </a>
 </p>
 
