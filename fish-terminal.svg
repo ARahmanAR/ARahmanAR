@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="180" viewBox="0 0 720 180" role="img" aria-labelledby="title desc">
+  <title id="title">Interactive fish shell profile</title>
+  <desc id="desc">One fish shell command types first, then its output appears before the next command.</desc>
+  <rect width="720" height="180" rx="14" fill="#0d1117"/>
+  <rect x="1" y="1" width="718" height="178" rx="13" fill="none" stroke="#30363d"/>
+  <circle cx="24" cy="22" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="22" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="22" r="6" fill="#27c93f"/>
+  <text x="360" y="27" fill="#8b949e" font-family="monospace" font-size="12" text-anchor="middle">fish — profile session</text>
+
+  <defs>
+    <style>
+      .scene { opacity: 0; animation: scene-cycle 9s infinite; }
+      .scene-1 { animation-delay: 0s; }
+      .scene-2 { animation-delay: 1.8s; }
+      .scene-3 { animation-delay: 3.6s; }
+      .scene-4 { animation-delay: 5.4s; }
+      .scene-5 { animation-delay: 7.2s; }
+      .output { opacity: 0; animation: output-reveal 9s infinite; }
+      .scene-1 .output { animation-delay: 0s; }
+      .scene-2 .output { animation-delay: 1.8s; }
+      .scene-3 .output { animation-delay: 3.6s; }
+      .scene-4 .output { animation-delay: 5.4s; }
+      .scene-5 .output { animation-delay: 7.2s; }
+      @keyframes scene-cycle {
+        0%, 18% { opacity: 1; }
+        20%, 100% { opacity: 0; }
+      }
+      @keyframes output-reveal {
+        0%, 10% { opacity: 0; }
+        12%, 18% { opacity: 1; }
+        20%, 100% { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <g font-family="monospace" font-size="15">
+    <g class="scene scene-1">
+      <text x="24" y="70" fill="#67e8f9">abdur@rahman</text><text x="142" y="70" fill="#a78bfa"> ~/profile</text><text x="250" y="70" fill="#f97316"> ❯</text><text x="270" y="70" fill="#f8fafc"> whoami</text>
+      <text class="output" x="24" y="94" fill="#86efac">✓ Abdur Rahman — Developer &amp; Computer Science Student</text>
+    </g>
+    <g class="scene scene-2">
+      <text x="24" y="70" fill="#67e8f9">abdur@rahman</text><text x="142" y="70" fill="#a78bfa"> ~/profile</text><text x="250" y="70" fill="#f97316"> ❯</text><text x="270" y="70" fill="#f8fafc"> cat interests.txt</text>
+      <text class="output" x="24" y="94" fill="#facc15">✓ AI &amp; Machine Learning · Web Development · Automation</text>
+    </g>
+    <g class="scene scene-3">
+      <text x="24" y="70" fill="#67e8f9">abdur@rahman</text><text x="142" y="70" fill="#a78bfa"> ~/profile</text><text x="250" y="70" fill="#f97316"> ❯</text><text x="270" y="70" fill="#f8fafc"> ls ./toolkit</text>
+      <text class="output" x="24" y="94" fill="#facc15">✓ C · JavaScript · Python · React · HTML · CSS · Git</text>
+    </g>
+    <g class="scene scene-4">
+      <text x="24" y="70" fill="#67e8f9">abdur@rahman</text><text x="142" y="70" fill="#a78bfa"> ~/profile</text><text x="250" y="70" fill="#f97316"> ❯</text><text x="270" y="70" fill="#f8fafc"> status</text>
+      <text class="output" x="24" y="94" fill="#86efac">✓ available — building, learning, and shipping</text>
+    </g>
+    <g class="scene scene-5">
+      <text x="24" y="70" fill="#67e8f9">abdur@rahman</text><text x="142" y="70" fill="#a78bfa"> ~/profile</text><text x="250" y="70" fill="#f97316"> ❯</text><text x="270" y="70" fill="#f8fafc"> echo $NEXT_STEP</text>
+      <text class="output" x="24" y="94" fill="#67e8f9">✓ Build → Learn → Improve → Repeat <tspan fill="#f8fafc">▌</tspan></text>
+    </g>
+  </g>
+</svg>

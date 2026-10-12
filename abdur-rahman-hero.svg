@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Abdur Rahman developer profile banner</title>
+  <desc id="desc">An animated deep-space background with neural network nodes, code symbols, and technology orbits.</desc>
+  <defs>
+    <linearGradient id="space" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050816"/>
+      <stop offset=".45" stop-color="#11104a"/>
+      <stop offset="1" stop-color="#063b55"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".5" cy=".45" r=".65">
+      <stop offset="0" stop-color="#312e81" stop-opacity=".62"/>
+      <stop offset=".55" stop-color="#06b6d4" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#050816" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#67e8f9" stroke-opacity=".1"/>
+    </pattern>
+    <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="4"/></filter>
+    <style>
+      .float-a { animation: float-a 7s ease-in-out infinite; }
+      .float-b { animation: float-b 9s ease-in-out infinite; }
+      .pulse { animation: pulse 2.8s ease-in-out infinite; transform-origin: center; }
+      .orbit { animation: orbit 12s linear infinite; transform-origin: 600px 150px; }
+      .orbit-reverse { animation: orbit-reverse 16s linear infinite; transform-origin: 600px 150px; }
+      .scan { animation: scan 5s ease-in-out infinite; }
+      @keyframes float-a { 0%,100% { transform: translate(0,0); } 50% { transform: translate(22px,-14px); } }
+      @keyframes float-b { 0%,100% { transform: translate(0,0); } 50% { transform: translate(-18px,12px); } }
+      @keyframes pulse { 0%,100% { opacity: .4; transform: scale(.9); } 50% { opacity: 1; transform: scale(1.25); } }
+      @keyframes orbit { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+      @keyframes orbit-reverse { from { transform: rotate(360deg); } to { transform: rotate(0deg); } }
+      @keyframes scan { 0%,100% { transform: translateY(-90px); opacity: 0; } 25%,75% { opacity: .55; } 50% { transform: translateY(90px); opacity: .15; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" rx="18" fill="url(#space)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#glow)"/>
+  <rect x="18" y="18" width="1164" height="264" rx="12" fill="url(#grid)"/>
+
+  <g class="float-a" opacity=".7" filter="url(#blur)">
+    <circle cx="150" cy="70" r="42" fill="#7c3aed"/>
+    <circle cx="1050" cy="220" r="45" fill="#06b6d4"/>
+  </g>
+  <g class="float-b" opacity=".65" filter="url(#soft)">
+    <circle cx="930" cy="56" r="4" fill="#a5f3fc"/>
+    <circle cx="250" cy="242" r="3" fill="#c4b5fd"/>
+    <circle cx="1090" cy="104" r="3" fill="#67e8f9"/>
+    <circle cx="96" cy="190" r="3" fill="#f0abfc"/>
+  </g>
+
+  <g fill="none" stroke="#67e8f9" stroke-opacity=".38" stroke-width="1.4">
+    <path d="M80 105L188 62L278 108L350 52"/>
+    <path d="M890 218L968 158L1060 204L1140 142"/>
+    <path d="M76 105L80 190L174 236L250 190"/>
+  </g>
+  <g class="pulse">
+    <circle cx="80" cy="105" r="4" fill="#67e8f9"/>
+    <circle cx="188" cy="62" r="5" fill="#a78bfa"/>
+    <circle cx="278" cy="108" r="4" fill="#67e8f9"/>
+    <circle cx="350" cy="52" r="4" fill="#f0abfc"/>
+    <circle cx="968" cy="158" r="5" fill="#67e8f9"/>
+    <circle cx="1060" cy="204" r="4" fill="#a78bfa"/>
+  </g>
+
+  <g fill="none" stroke="#a5f3fc" stroke-opacity=".28">
+    <ellipse cx="600" cy="150" rx="420" ry="88"/>
+    <ellipse cx="600" cy="150" rx="350" ry="112" transform="rotate(26 600 150)"/>
+  </g>
+  <g class="orbit">
+    <circle cx="1020" cy="150" r="5" fill="#f97316"/>
+    <circle cx="180" cy="150" r="3" fill="#67e8f9"/>
+  </g>
+  <g class="orbit-reverse">
+    <circle cx="600" cy="38" r="4" fill="#a78bfa"/>
+    <circle cx="600" cy="262" r="4" fill="#67e8f9"/>
+  </g>
+
+  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif">
+    <text x="600" y="137" fill="#ffffff" font-size="42" font-weight="700" letter-spacing="2">Abdur Rahman</text>
+    <text x="600" y="169" fill="#a5f3fc" font-size="16" letter-spacing="3">COMPUTER SCIENCE STUDENT  •  DEVELOPER IN PROGRESS</text>
+    <text x="600" y="205" fill="#c4b5fd" font-family="monospace" font-size="13">AI &amp; ML  /  WEB DEVELOPMENT  /  AUTOMATION</text>
+  </g>
+  <rect class="scan" x="80" y="148" width="1040" height="1" fill="#67e8f9"/>
+  <rect x="18" y="18" width="1164" height="264" rx="12" fill="none" stroke="#67e8f9" stroke-opacity=".35"/>
+</svg>
